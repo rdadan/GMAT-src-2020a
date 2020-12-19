@@ -1,0 +1,20 @@
+GMAT Build Date: Apr 29 2020 13:07:12
+
+GMAT Log file set to D:\vsproject\GMAT\gmat-win-R2020a\GMAT\bin\..\output\GmatLog.txt
+Moderator is updating data files...
+Moderator is creating core engine...
+*** Library "..\plugins\libMatlabInterface" did not open.
+*** Library "..\plugins\libFminconOptimizer" did not open.
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+Setting nutation file to D:\vsproject\GMAT\gmat-win-R2020a\GMAT\bin\..\data\planetary_coeff\NUTATION.DAT
+Setting leap seconds file to D:\vsproject\GMAT\gmat-win-R2020a\GMAT\bin\..\data\time\tai-utc.dat
+2020-12-10 11:05:34 GMAT Moderator successfully created core engine
+Successfully set Planetary Source to use: DE405
+Successfully set Planetary Source to use: DE405
+2020-12-10 11:05:35 GMAT GUI successfully launched.
+*** Error loading "libMatlabInterface": GMAT could not load the MATLAB interface. Please check that MATLAB is installed and configured correctly.  See the User Guide for instructions, or disable the appropriate PLUGIN line in bin/gmat_startup_file.txt to remove this error.
+*** Error loading "libFminconOptimizer": Either libMatlabInterface could not load or is disabled, or the MATLAB Optimization Toolbox is not available.  Disable the appropriate PLUGIN line in bin/gmat_startup_file.txt to remove this error.
+Moderator is deleting core engine...
+2020-12-10 11:05:57 GMAT GUI exiting.
